@@ -1,0 +1,6 @@
+AVR-Programming-Book-Chapters
+*.hex
+*.lst
+*.elf
+*.o
+*.map
